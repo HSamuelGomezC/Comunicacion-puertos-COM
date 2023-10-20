@@ -1,0 +1,135 @@
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.AssemblyReference.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.SuggestedBindingRedirects.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Conexion.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.ConfiguracionForm.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Creditos.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_A.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_B.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_C.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_Principal.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.Properties.Resources.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_SDR.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.GenerateResource.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe.config
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe.manifest
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.application
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.pdb
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\BouncyCastle.Crypto.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EntityFramework.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EPPlus.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EPPlus.Interfaces.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Google.Protobuf.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Hash.xxHash.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\MySql.Data.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Buffers.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.IO.Pipelines.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Memory.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Numerics.Vectors.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\ZstdSharp.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\BouncyCastle.Crypto.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EntityFramework.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\EPPlus.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Google.Protobuf.pdb
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Google.Protobuf.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\K4os.Hash.xxHash.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\MySql.Data.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Buffers.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.IO.Pipelines.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Memory.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Numerics.Vectors.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.exe.manifest
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.application
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CopyComplete
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.exe
+E:\Hector Uni\Proyecto Basculas\Pruebas 2\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.pdb
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe.config
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe.manifest
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.application
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.exe
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Lector_De_Puertos_COM.pdb
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\BouncyCastle.Crypto.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EntityFramework.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EPPlus.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EPPlus.Interfaces.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EPPlus.System.Drawing.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Google.Protobuf.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Hash.xxHash.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\MySql.Data.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Buffers.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.IO.Pipelines.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Memory.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Numerics.Vectors.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\ZstdSharp.dll
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\BouncyCastle.Crypto.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EntityFramework.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\EPPlus.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Google.Protobuf.pdb
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Google.Protobuf.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\K4os.Hash.xxHash.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\MySql.Data.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Buffers.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Data.SQLite.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.IO.Pipelines.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Memory.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Numerics.Vectors.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.AssemblyReference.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Conexion.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.ConfiguracionForm.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Creditos.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_A.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_B.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_C.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_Principal.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.Properties.Resources.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.Ventana_SDR.resources
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.GenerateResource.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CoreCompileInputs.cache
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.exe.manifest
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.application
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Prueba2.csproj.CopyComplete
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.exe
+E:\Hector Uni\Proyecto Basculas\Pruebas 2 - copia\Prueba2\Prueba2\obj\Debug\Lector_De_Puertos_COM.pdb
