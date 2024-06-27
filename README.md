@@ -1,5 +1,5 @@
 # Comunicación por puertos COM
-Programa donde se mantiene una comunicación a través de un puerto COM con un periférico (bascula) en C#.
+Programa Windows Form .Net donde se mantiene una comunicación a través de un puerto COM con un periférico (bascula) en C# con.
 
 ## Pantalla Principal 
 Contiene botones para la visualizacion de 4 diferentes naves (basculas) para poder leer los datos que estas manden, 
